@@ -3,7 +3,7 @@
 
 ## Deployments
 
-| Chain Name | Deployed address | Explorer Link |
+| Chain Name | Deployed Address | Explorer Link |
 |:-----------|:-----------------|:--------------|
 | NEAR Testnet | reclaim-protocol-testnet-hadi-sa.testnet | https://explorer.testnet.near.org/accounts/reclaim-protocol-testnet-hadi-sa.testnet|
 
