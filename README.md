@@ -1,8 +1,15 @@
-# reclaim-near-contract
+# Reclaim - NEAR
 
-cargo-near-new-project-description
 
-## How to Build Locally?
+## Deployments
+
+| Chain Name | Deployed address | Explorer Link |
+|:-----------|:-----------------|:--------------|
+| NEAR Testnet | reclaim-protocol-testnet-hadi-sa.testnet | https://explorer.testnet.near.org/accounts/reclaim-protocol-testnet-hadi-sa.testnet|
+
+## Environment
+
+### Build
 
 Install [`cargo-near`](https://github.com/near/cargo-near) and run:
 
@@ -10,13 +17,13 @@ Install [`cargo-near`](https://github.com/near/cargo-near) and run:
 cargo near build
 ```
 
-## How to Test Locally?
+### Test
 
 ```bash
 cargo test
 ```
 
-## How to Deploy?
+### Deploy
 
 Deployment is automated with GitHub Actions CI/CD pipeline.
 To deploy manually, install [`cargo-near`](https://github.com/near/cargo-near) and run:
@@ -25,7 +32,7 @@ To deploy manually, install [`cargo-near`](https://github.com/near/cargo-near) a
 cargo near deploy <account-id>
 ```
 
-## Useful Links
+### Useful Links
 
 - [cargo-near](https://github.com/near/cargo-near) - NEAR smart contract development toolkit for Rust
 - [near CLI](https://near.cli.rs) - Iteract with NEAR blockchain from command line
