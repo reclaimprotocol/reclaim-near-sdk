@@ -9,7 +9,9 @@
 
 | Chain Name | Deployed Address | Explorer Link |
 |:-----------|:-----------------|:--------------|
-| NEAR Testnet | reclaim-protocol-testnet-hadi-sa.testnet | https://explorer.testnet.near.org/accounts/reclaim-protocol-testnet-hadi-sa.testnet|
+| NEAR Testnet | reclaim-protocol.testnet | https://testnet.nearblocks.io/address/reclaim-protocol.testnet|
+| NEAR Mainnet | reclaim-protocol-mainnet.near | https://nearblocks.io/address/reclaim-protocol-mainnet.near?tab=txns|
+
 
 ## Environment
 
